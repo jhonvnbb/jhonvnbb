@@ -4,7 +4,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhonvnbb&label=Profile%20views&color=0e75b6&style=flat" alt="jhonvnbb" />
 </p>
+<br>
 
+<hr>
+
+<br>
+<h3 align="center">A Little About Me</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jhonvnbb" alt="jhonvnbb" />
@@ -22,14 +27,22 @@
 <p align="center">
   📫 How to reach me <strong>tinonababan3@gmail.com</strong>
 </p>
+<br>
 
+<hr>
+
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/jhonnvnbb" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonnvnbb" height="30" width="40" />
   </a>
 </p>
+<br>
 
+<hr>
+
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -123,15 +136,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+<br>
 
+<hr>
+
+<br>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonvnbb&show_icons=true&locale=en&layout=compact" alt="jhonvnbb" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonvnbb&show_icons=true&locale=en" alt="jhonvnbb" />
-</p>
+</p> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonvnbb&" alt="jhonvnbb" />
