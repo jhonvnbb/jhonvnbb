@@ -7,7 +7,6 @@
 
 <hr>
 
-<br>
 <h3 align="center">A Little About Me</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -27,12 +26,9 @@
   📫 How to reach me <strong>tinonababan3@gmail.com</strong>
 </p>
 
-<br>
-
 <hr>
 
-<br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools :</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -126,11 +122,8 @@
   </a>
 </p>
 
-<br>
-
 <hr>
 
-<br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonvnbb&show_icons=true&locale=en&layout=compact&theme=radical" alt="jhonvnbb" />
 </p>
