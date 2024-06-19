@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhonvnbb&label=Profile%20views&color=0e75b6&style=flat" alt="jhonvnbb" />
 </p>
-<br>
-
 <hr>
 
 <br>
@@ -26,17 +24,6 @@
 
 <p align="center">
   📫 How to reach me <strong>tinonababan3@gmail.com</strong>
-</p>
-<br>
-
-<hr>
-
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://instagram.com/jhonnvnbb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonnvnbb" height="30" width="40" />
-  </a>
 </p>
 <br>
 
