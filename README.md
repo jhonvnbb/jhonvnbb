@@ -11,18 +11,21 @@
   </a>
 </p>
 
-<p align="center">
+<br>
+<h3>A Little About Me</h3>
+<p align="left">
   👨‍💻 All of my projects are available at <a href="https://jhonvnbb.vercel.app/">jhonvnbb.vercel.app</a>
 </p>
 
-<p align="center">
+<p align="left">
   💬 Ask me about <strong>How to enjoy life</strong>
 </p>
 
-<p align="center">
+<p align="left">
   📫 How to reach me <strong>tinonababan3@gmail.com</strong>
 </p>
 
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/jhonnvnbb" target="blank">
@@ -30,7 +33,10 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<br>
+<hr>
+<br>
+<h3 align="center">Languages and Tools :</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -124,6 +130,9 @@
   </a> 
 </p>
 
+<br>
+<hr>
+<br>
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonvnbb&show_icons=true&locale=en&layout=compact" alt="jhonvnbb" />
