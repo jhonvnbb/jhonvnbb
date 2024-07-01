@@ -8,13 +8,13 @@
 <hr>
 
 <h3 align="center">A Little About Me</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jhonvnbb&theme=onedark" alt="jhonvnbb" />
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<p align="center" style="font-size:30px">
   👨‍💻 All of my projects are available at <a href="https://jhonvnbb.vercel.app/">jhonvnbb.vercel.app</a>
 </p>
 
