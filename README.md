@@ -1,13 +1,11 @@
 <div align="center">
-  <br>
   <hr>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=jhonvnbb&label=Profile%20views&color=0e75b6&style=flat" alt="jhonvnbb" />
-  </p>
 
   <div>
     <h3>🪅 A Little About Me 🤖</h3>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=jhonvnbb&label=Profile%20views&color=0e75b6&style=flat" alt="jhonvnbb" />
+    </p>
     <hr>
     <br>
     <p>
